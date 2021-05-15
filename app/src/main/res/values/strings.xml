@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Manager</string>
+
+
+    <string name="phone_number">Telefone</string>
+    <string name="birth_date">nascimento</string>
+    <string name="genre">Gênero</string>
+    <string name="picture">Fotografia</string>
+    <string name="name">Nome</string>
+    <string name="next">Continuar</string>
+    <string name="finish">Terminar</string>
+    <string name="cancel">Cancelar</string>
+
+
+    <string name="password_strength_weak">Fraca</string>
+    <string name="password_strength_medium">Mediana</string>
+    <string name="password_strength_strong">Forte</string>
+    <string name="password_strength_very_strong">Very Strong</string>
+    <string name="repeat_password">Repita a Palavra passe</string>
+    <string name="password_instructions">Sua senha deve ter pelo menos 8 caracteres. Com pelo menos 1 número e 1 caractere especial</string>
+    <string name="something_wrong_text">Aconteceu algo errado</string>
+    <string name="account_already_exists_text">Já existe uma conta com este Enderço Email</string>
+    <string name="select_foto_text">Selecione uma fotografia</string>
+    <string name="invalid_phonenumber_text">número inválido</string>
+    <string name="invalid_password">Palavra passe inválida</string>
+    <string name="invalid_email_address">Endereço email inválido</string>
+    <string name="wrong_password_mailaddress">Email ou palavra-passe incorretos, tente novamente.</string>
+    <string name="invalid_birthday">Data de nascimento inválida</string>
+    <string name="must_be_filled">Deve ser preenchido</string>
+    <string name="save_image">Salvar fotografia</string>
+    <string name="change_name">alterar nome</string>
+    <string name="change_password">Alterar password</string>
+    <string name="sign_out">Sair da conta</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="my_password">palavra passe actual</string>
+    <string name="new_password">Nova palavra passe</string>
+    <string name="confirm_password">Confirmar palavra passe</string>
+    <string name="user_profile_photo">User profile photo</string>
+    <string name="skip">Saltar</string>
+
+    <!-- Strings related to login -->
+    <string name="mail">Endereço Email</string>
+    <string name="sign_up">Registar</string>
+    <string name="password">Palavra Passe</string>
+    <string name="account_question">Não tem uma conta? Crie aqui!</string>
+    <string name="login">Iniciar sessão</string>
+    <string name="forgot_password_question">Esqueceu a sua palavra passe?</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invalid_email">email inválido</string>
+    <string name="email_does_not_exist">Não existe conta com este email</string>
+    <string name="sent_with_success">Já enviamos o link para si. Verifique também na pasta de span.</string>
+    <string name="almost_done">Falta pouco</string>
+    <string name="okay">Está bem</string>
+    <string name="not_found">Não encontrou!</string>
+    <string name="send_reset_email_info">Iremos enviar um link para o seu email para redefinir a sua senha</string>
+    <string name="send_email">Enviar email</string>
+    <string name="payments_methods">Metódos de pagamento</string>
+    <string name="privacy_police">Política de privacidade</string>
+    <string name="general_conditions">Condições gerais</string>
+    <string name="account">Conta</string>
+    <string name="others">Outros</string>
+    <string name="help_center">Centro de ajuda</string>
+    <string name="rate_app">Avaliar este app</string>
+    <string name="gyms">Ginásios</string>
+    <string name="history">Histórico</string>
+    <string name="by_hour">/hora</string>
+    <string name="train_in">Treinou em:</string>
+    <string name="filter">Filtrar : </string>
+    <string name="search">Pesquisar</string>
+    <string name="clean_filter">Limpar filtro</string>
+    <string name="sort_by">Ordenar por</string>
+    <string name="begin">Começar</string>
+    <string name="read_qrcode">Ler QrCode</string>
+    <string name="settings">Definições</string>
+    <string name="time_left">Tempo restante: "</string>
+    <string name="random">Aleatório</string>
+    <string name="stop">Parar</string>
+    <string name="sample_arrow">sample_arrow</string>
+    <string name="information">Informação</string>
+    <string name="close">close</string>
+    <string name="scanner_info">scanea o código QR</string>
+    <string name="weak">Fraca</string>
+    <string name="median">Mediana</string>
+    <string name="strong">Forte</string>
+    <string name="logo">logo</string>
+</resources>
